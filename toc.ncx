@@ -1,0 +1,87 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="vi">
+  <head>
+    <meta content="fc13655c-8e4a-4681-b2ce-ee236bcdb553" name="dtb:uid"/>
+    <meta content="3" name="dtb:depth"/>
+    <meta content="calibre (3.46.0)" name="dtb:generator"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Làm ra làm chơi ra chơi</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="num_1" playOrder="1">
+      <navLabel>
+        <text>Lời giới thiệu</text>
+      </navLabel>
+      <content src="OEBPS/contents/page0001.xhtml"/>
+    </navPoint>
+    <navPoint id="num_2" playOrder="2">
+      <navLabel>
+        <text>Lời mở đầu</text>
+      </navLabel>
+      <content src="OEBPS/contents/page0002.xhtml"/>
+    </navPoint>
+    <navPoint id="num_3" playOrder="3">
+      <navLabel>
+        <text>PHẦN 1: Ý TƯỞNG</text>
+      </navLabel>
+      <content src="OEBPS/contents/page0003.xhtml"/>
+      <navPoint id="num_4" playOrder="4">
+        <navLabel>
+          <text>Chương một: Làm việc sâu thật đáng giá</text>
+        </navLabel>
+        <content src="OEBPS/contents/page0004.xhtml"/>
+      </navPoint>
+      <navPoint id="num_5" playOrder="5">
+        <navLabel>
+          <text>Chương hai: Trạng thái làm việc sâu rất ít khi xuất hiện</text>
+        </navLabel>
+        <content src="OEBPS/contents/page0005.xhtml"/>
+      </navPoint>
+      <navPoint id="num_6" playOrder="6">
+        <navLabel>
+          <text>Chương ba: Làm việc sâu có ý nghĩa</text>
+        </navLabel>
+        <content src="OEBPS/contents/page0006.xhtml"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="num_7" playOrder="7">
+      <navLabel>
+        <text>PHẦN 2: CÁC QUY TẮC</text>
+      </navLabel>
+      <content src="OEBPS/contents/page0007.xhtml"/>
+      <navPoint id="num_8" playOrder="8">
+        <navLabel>
+          <text>Quy tắc số 1: Làm việc sâu</text>
+        </navLabel>
+        <content src="OEBPS/contents/page0008.xhtml"/>
+      </navPoint>
+      <navPoint id="num_9" playOrder="9">
+        <navLabel>
+          <text>Quy tắc số 2: Tận dụng sự buồn chán</text>
+        </navLabel>
+        <content src="OEBPS/contents/page0009.xhtml"/>
+      </navPoint>
+      <navPoint id="num_10" playOrder="10">
+        <navLabel>
+          <text>Quy tắc số 3: Thoát khỏi truyền thông xã hội</text>
+        </navLabel>
+        <content src="OEBPS/contents/page0010.xhtml"/>
+      </navPoint>
+      <navPoint id="num_11" playOrder="11">
+        <navLabel>
+          <text>Quy tắc số 4: Loại bỏ những thứ hời hợt</text>
+        </navLabel>
+        <content src="OEBPS/contents/page0011.xhtml"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="num_12" playOrder="12">
+      <navLabel>
+        <text>Kết luận</text>
+      </navLabel>
+      <content src="OEBPS/contents/page0012.xhtml"/>
+    </navPoint>
+  </navMap>
+</ncx>

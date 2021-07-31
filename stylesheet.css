@@ -1,0 +1,176 @@
+.banner {
+  background: #eee;
+  border-radius: 23px;
+  color: black;
+  display: block;
+  margin-bottom: 0;
+  margin-top: 0;
+  text-align: center;
+  border: black solid thin;
+  padding: 0 1em;
+}
+.bookinfo {
+  border-bottom: 0;
+  border-top: 0;
+  display: block;
+  font-size: 1.125em;
+  line-height: 1.2;
+  text-align: center;
+  text-indent: 0;
+  margin: 0;
+  padding: 0;
+}
+.title {
+  border-bottom: 0;
+  border-top: 0;
+  display: block;
+  font-size: 1.5em;
+  font-weight: bold;
+  line-height: 1.5;
+  text-align: center;
+  text-indent: 0;
+  text-transform: uppercase;
+  margin: 0;
+  padding: 0;
+}
+.calibre {
+  display: block;
+  font-size: 1em;
+  padding-left: 0;
+  padding-right: 0;
+  text-align: left;
+  margin: 0 5pt;
+}
+.calibre1 {
+  display: block;
+  height: auto;
+  width: auto;
+}
+.calibre2 {
+  display: block;
+  font-family: bookerly;
+  font-size: 1em;
+  padding-left: 0;
+  padding-right: 0;
+  margin: 0 5pt;
+}
+.calibre3 {
+  display: block;
+  font-size: 2em;
+  font-weight: bold;
+  line-height: 1.2;
+  padding-bottom: 10px;
+  padding-left: 35px;
+  text-align: left;
+  margin: 0.67em 0;
+  border-bottom: #000 solid 1px;
+}
+.calibre4 {
+  display: block;
+  list-style-type: decimal;
+  margin-bottom: 1em;
+  margin-right: 0;
+  margin-top: 1em;
+}
+.calibre5 {
+  display: block;
+  font-size: 1em;
+  list-style-image: none;
+  list-style-position: outside;
+  list-style-type: none;
+  text-align: left;
+  margin: 10px 0;
+}
+.calibre6 {
+  color: #007aff;
+  text-decoration: none;
+}
+.calibre7 {
+  display: block;
+  font-size: 2em;
+  font-weight: bold;
+  line-height: 1.2;
+  margin: 0.67em 0;
+}
+.text {
+  display: block;
+  text-align: justify;
+  margin: 0.3em 0 0.3em;
+  text-indent: 1.5em;
+}
+.text_ {
+  display: block;
+  text-align: justify;
+  margin: 0.3em 0 0.3em;
+  text-indent: 0;
+}
+.calibre9 {
+  font-family: bookerlyItalic;
+  font-style: italic;
+}
+.calibre10 {
+  font-family: bookerlyBold;
+  font-weight: bold;
+}
+.calibre12 {
+  display: block;
+}
+.calibre13 {
+  font-size: 1em;
+  margin: 0.5em 1.5em 0.5em;
+  line-height: normal;
+  vertical-align: super;
+}
+.calibre14 {
+  display: block;
+  list-style-type: disc;
+  margin-bottom: 1em;
+  margin-right: 0;
+  margin-top: 1em;
+}
+.calibre15 {
+  display: block;
+  line-height: 1.2;
+}
+.calibre16 {
+  color: gray;
+  display: block;
+  height: 2px;
+  margin: 0.5em auto;
+  border: currentColor inset 1px;
+}
+.chapterindex {
+  display: block;
+  font-size: 1em;
+  font-style: italic;
+  font-weight: normal;
+  line-height: 1.2;
+  margin-bottom: 10px;
+  margin-top: 50px;
+  text-align: center;
+}
+.chaptertitle {
+  display: block;
+  font-size: 1em;
+  line-height: 1.2;
+  margin-bottom: 50px;
+  margin-top: 50px;
+  text-align: center;
+  text-transform: uppercase;
+}
+.chaptertitle1 {
+  display: block;
+  font-size: 1em;
+  line-height: 1.2;
+  margin-bottom: 50px;
+  text-align: center;
+  text-transform: uppercase;
+}
+.dropcap {
+  float: left;
+  font-size: 400%;
+  line-height: 80%;
+  margin-right: 10px;
+  text-align: right;
+  width: 0.75em;
+}

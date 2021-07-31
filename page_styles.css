@@ -1,0 +1,20 @@
+@page {
+  margin-bottom: 5pt;
+  margin-top: 5pt;
+}
+@font-face {
+  font-family: bookerly;
+  src: url(OEBPS/fonts/bookerly.ttf);
+}
+@font-face {
+  font-family: bookerlyBold;
+  src: url(OEBPS/fonts/bookerlyBold.ttf) format("truetype");
+}
+@font-face {
+  font-family: bookerlyItalic;
+  src: url(OEBPS/fonts/bookerlyItalic.ttf) format("truetype");
+}
+@font-face {
+  font-family: bookerlyBoldItalic;
+  src: url(OEBPS/fonts/bookerlyBoldItalic.ttf) format("truetype");
+}
